@@ -13,6 +13,9 @@ We encourage educators in our community to not only utilize and adapt our assign
 
 ### References
 [1] Bartilla, A. and Köppe, C. 2015. Awareness seeds for more gender diversity in computer science education. In Proceedings of the 20th European Conference on Pattern Languages of Programs (EuroPLoP '15). Association for Computing Machinery, New York, NY, USA, Article 37, 1–11. DOI:https://doi.org/10.1145/2855321.2855359
+
 [2] Parker, E., Barnhardt, C., Pascarella, E., and McCowin, J. 2016. The Impact of Diversity Courses on College Students’ Moral Development. Journal of College Student Development. 57. 395-410. DOI:10.1353/csd.2016.0050.
+
 [3] Rößling, G. and Broj, F. 2018. An interactive online course to raise awareness about diversity. In Proceedings of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE 2018). Association for Computing Machinery, New York, NY, USA, 377. DOI:https://doi.org/10.1145/3197091.3205809.
+
 [4] Wick, M. R. 2009. Using programming to help students understand the value of diversity. SIGCSE Bull. 41, 1 (March 2009), 367–371. DOI:https://doi.org/10.1145/1539024.1508997.
